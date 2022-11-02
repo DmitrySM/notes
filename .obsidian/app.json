@@ -1,4 +1,5 @@
 {
-  "livePreview": false,
-  "spellcheck": true
+  "livePreview": true,
+  "spellcheck": true,
+  "showFrontmatter": false
 }

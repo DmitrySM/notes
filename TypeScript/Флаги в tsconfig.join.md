@@ -1,0 +1,1 @@
+**noImplicitAny** - защита от неявных any
