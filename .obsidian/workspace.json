@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3db368bf221860b4",
+        "id": "23e3038fc8ae18a8",
         "type": "tabs",
         "children": [
           {
-            "id": "71608c817962f798",
+            "id": "ed0361e4231de735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Типы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cafd6f21c6577ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/Типы.md",
+                "file": "TypeScript/Продвинутые типы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Типы.md",
+                "file": "TypeScript/Продвинутые типы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Типы.md",
+                "file": "TypeScript/Продвинутые типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Типы.md"
+                "file": "TypeScript/Продвинутые типы.md"
               }
             }
           }
@@ -150,15 +137,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7cafd6f21c6577ea",
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ed0361e4231de735",
   "lastOpenFiles": [
-    "Next.js/CSS/README.md",
-    "TypeScript/Типы.md",
-    "TypeScript/Флаги в tsconfig.join.md",
+    "TypeScript/Обработка ошибок.md",
     "TypeScript/Продвинутые типы.md",
-    "Next.js/README.md",
-    "2022-10-26.md",
-    "Next.js/Environment Variables/README.md",
-    "README.md"
+    "TypeScript/Без названия",
+    "TypeScript/Паттерны проектирования.md",
+    "TypeScript/Классы и интерфейсы.md",
+    "TypeScript/Типы.md",
+    "TypeScript/Псевдонимы.md",
+    "TypeScript/Функции.md",
+    "TypeScript/Флаги в tsconfig.join.md",
+    "Next.js/CSS/README.md",
+    "Next.js/README.md"
   ]
 }
